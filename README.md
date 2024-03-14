@@ -37,7 +37,7 @@ In Code 401, we specialize in advanced topics tailored to specific programming l
 2. **Paragraphs**: Provide detailed descriptions for the site and each course.
 3. **Bold Text**: Highlights key terms and concepts.
 4. **Lists**: Organize key concepts, technologies used, and features of the Markdown.
-5. **Links** (not included above, but could be added for resources): `[Title](URL)` format to link to external resources or documentation.
+5. **Links**
 
 Thank you for visiting our site, and we hope you find these notes helpful on your journey to becoming a skilled software developer!
 
