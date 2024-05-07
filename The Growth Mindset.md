@@ -1,3 +1,5 @@
+***Upgrade your technical skills with deliberate practice***
+
 The topic discussed is the concept of deliberate practice in improving technical skills, particularly in software development. Deliberate practice involves engaging in activities specifically designed to push oneself just beyond their comfort zone, repeated often, and with feedback readily available. It emphasizes mental challenge, difficulty, and setting good goals to facilitate learning and skill improvement.
 
 The key points highlighted include:
